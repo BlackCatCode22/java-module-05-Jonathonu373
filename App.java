@@ -1,7 +1,7 @@
 // J.U 10/3/24
 // zooVersion01.java
 //
-package dennis.zoo.com;
+package Jonathon.zoo.com;
 
 import java.util.Date;
 import java.text.SimpleDateFormat;
@@ -139,7 +139,7 @@ public class App {
                 System.out.println("The season of birth of the animal is: " + animalBirthSeason);
 
                 // this is a unit test - we are testing the Animal constructor we just created
-                Animal myNewAnimal = new Animal("male", 4, 70, "Zig", "Hy01", "2020-3-21", "brown spots", "from San Diego Zoo");
+                Jonathon.zoo.com.Animal myNewAnimal = new Jonathon.zoo.com.Animal("male", 4, 70, "Zig", "Hy01", "2020-3-21", "brown spots", "from San Diego Zoo");
 
                 // Prove it!
                 System.out.println("\n this is the new animal!\n");
